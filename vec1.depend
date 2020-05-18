@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570984115 source:a:\program files\projects\vec1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1588198393 source:c:\users\user\desktop\Новая папка\vec1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
